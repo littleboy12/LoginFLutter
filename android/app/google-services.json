@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52188734230",
+    "project_id": "cobabaru-9b171",
+    "storage_bucket": "cobabaru-9b171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52188734230:android:6bae04231ae060aed6a637",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgt3gJIE9l6vWf1rno2JyqrqYMXDBVMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
